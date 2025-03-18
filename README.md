@@ -16,4 +16,4 @@ Create new cashier accounts
 
 This project improved transaction processing and inventory management, showcasing my skills in Java development and system automation. Excited to tackle more software engineering challenges!
 
-https://github.com/MNSBaanu/The-Paws-Shop---Pet-Supply-Management-System/blob/main/LoginPage.png?raw=true
+
